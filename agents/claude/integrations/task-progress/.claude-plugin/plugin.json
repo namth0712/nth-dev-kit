@@ -1,0 +1,7 @@
+{
+  "name": "nth-task-progress",
+  "version": "0.1.0",
+  "description": "Observe-only task progress band from Claude's native task tools (nth-dev-kit optional integration)",
+  "author": { "name": "nth-dev-kit" },
+  "types": "./types/index.d.ts"
+}

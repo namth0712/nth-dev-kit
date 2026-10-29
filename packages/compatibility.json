@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "components": {
+    "nth-status": {
+      "version": "0.1.0",
+      "activation": "selected-profile",
+      "procedure": { "path": "docs/installation.md", "sha256": "304915d3e5f4147f67a761de4f6224dffbd68363336d75df8225f83b844c0bc5" },
+      "files": {
+        ".claude-plugin/plugin.json": "4f4e48eb56b5206239b4cbd83b330e017b604ec0db45082497a01d23104d80e1",
+        "hooks/hooks.json": "d842d789476d67282d0f04b7e5fdc68a3d981ccec65dd79cfa2d11eed13fb828",
+        "hooks/register.tsx": "3996153c3a6217d228305d613c0fcc443d53de811138b81789faa424d23bb5de",
+        "hooks/status.ts": "da826ce3081adda460eba31f6962af13d9b434914ed66e15692a67d8b07e4ad1",
+        "types/index.d.ts": "b8b49c82b1b836bfbaf62bfc7b578541f186071af8edea0917d0c62a88cbda49",
+        "scripts/nth-status-statusline.sh": "acd01d29df2481f68ebc4f2900237fc1c959628f62e5edb80681334ed024b519"
+      }
+    }
+  }
+}

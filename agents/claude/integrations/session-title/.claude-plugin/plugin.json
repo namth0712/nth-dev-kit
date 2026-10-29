@@ -1,0 +1,6 @@
+{
+  "name": "nth-session-title",
+  "version": "0.2.0",
+  "description": "Short deterministic session titles and a /task command to set their task part (nth-dev-kit optional integration)",
+  "author": { "name": "nth-dev-kit" }
+}
